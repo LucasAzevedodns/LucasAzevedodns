@@ -1,4 +1,4 @@
-## Hi there 👋
+## Olá, que bom te ver aqui. 👋
 Sou estudante de ADS.
 Após anos de aprendizado, disciplina e liderança como militar, estou dando um novo passo: mergulhando no mundo da tecnologia. Atualmente, curso Análise e Desenvolvimento de Sistemas e venho me aprofundando em Machine Learning, área que me fascina por seu potencial transformador.
 <!--
