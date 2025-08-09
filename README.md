@@ -11,8 +11,13 @@ O projeto é criar um jogo de adivinhação, onde o jogador deve tentar adivinha
 - **HTML** - estrutura da página
 - **CCS** - aparência
  ## ✅ O que estou aprendendo
-- Criar um algoritmo do zero e com base em códigos prontos para ver e comparar no que estou errando, acertando e vendo as diversas possibilidades de melhorar o código. Automatizar tarefas repetitivas, reutilizar blocos de código para tarefas específicas e identificar e corrigir erros.
+- **Lógica básica de programação**: Conceitos como variáveis, estruturas de controle, funções, e lógica de programação. O uso de variáveis para armazenar o número secreto e as tentativas do jogador, estruturas condicionais (como if/else) para verificar se o palpite está correto e laços de repetição (como while) para permitir várias tentativas.
+-**Manipulação de entradas do usuário**: Captura e validar a entrada para o palpite do jogador.
+-**Interação entre HTML, CSS e Java**: Aprender como estruturar uma interface (HTML), estilizar (CSS) e implementar uma lógica ou funcionalidade por trás.
+-**Controle de fluxo do jogo**: Gerenciar testes, verificar acertos/erros, exibir mensagens de resultado ao usuário.
+-**Depuração inicial**: identificar e corrigir erros que surgem durante o desenvolvimento.
  ## :construction: Dificuldades
-- Entender a lógica sem ver e o principal colocar ideias humanas para lógica do computador.
+- Entender a lógica e as diversidades das tecnologias utilizadas.
+- Transformar ideias para a lógica do computador.
 <img width="498" height="312" alt="image" src="https://github.com/user-attachments/assets/5df0b6cf-7ff7-4842-851a-5191e5cac80b" />
 
